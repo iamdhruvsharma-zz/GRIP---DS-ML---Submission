@@ -33,3 +33,4 @@ Email: dhruv061@hotmail.com
 1. For the Perform „Exploratory Data Analysis‟ on the provided dataset “SampleSuperstore”
 2. You are the business owner of the retail firm and want to see how your company is performing. You are interested in finding out the weak areas where you can work to make more profit. What all business problems you can derive by looking into the data? You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel)
 3. Dataset: https://drive.google.com/file/d/1lV7is1B566UQPYzzY8R2ZmOritTW299S/view
+4. Video Link: https://youtu.be/-jTCLP-Zf60
