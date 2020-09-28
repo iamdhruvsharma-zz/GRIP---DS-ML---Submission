@@ -4,7 +4,7 @@ Name: Dhruv Sharma
 
 Email: dhruv061@hotmail.com
 
-### Task #2 -To Explore Supervised Machine Learning
+### Task #2 - To Explore Supervised Machine Learning
 1. In this regression task we will predict the percentage of marks that a student is expected to score based upon the number of hours they studied. This is a simple linear regression task as it involves just two variables.
 2. Data: http://bit.ly/w-data
 3. What will be predicted score if a student studies for 9.25 hours in a day?
