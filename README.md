@@ -16,14 +16,15 @@ Email: dhruv061@hotmail.com
 6. Video Link: https://youtu.be/MEMTOX4y6i0
 
 ### Task # 3 - To Explore Unsupervised Machine Learning
- From the given „Iris‟ dataset, predict the optimum number of clusters and represent it visually.
- Dataset: https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view
- Sample Solution:
-https://drive.google.com/file/d/1Yjz8dzSbpAPwJdcVb20eFWniIDbs6ZH7/view
- Video Link: https://youtu.be/OAh97NRkIG0
+1. From the given „Iris‟ dataset, predict the optimum number of clusters and represent it visually.
+2. Dataset: https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view
+3. Sample Solution:
+   https://drive.google.com/file/d/1Yjz8dzSbpAPwJdcVb20eFWniIDbs6ZH7/view
+4. Video Link: https://youtu.be/OAh97NRkIG0
+
 ### Task # 4 - To Explore Decision Tree Algorithm
- For the given „Iris‟ dataset, create the Decision Tree classifier and visualize it graphically. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
- Dataset: https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view
- Sample Solution:
-https://drive.google.com/file/d/1mQguC2gku2-QFruj09a30N0TYDwCmPkq/view
- Video Link: https://youtu.be/9Q0Hkk1_D1E
+1. For the given „Iris‟ dataset, create the Decision Tree classifier and visualize it graphically. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
+2. Dataset: https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view
+3. Sample Solution:
+   https://drive.google.com/file/d/1mQguC2gku2-QFruj09a30N0TYDwCmPkq/view
+4. Video Link: https://youtu.be/9Q0Hkk1_D1E
