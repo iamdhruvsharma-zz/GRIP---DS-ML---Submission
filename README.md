@@ -34,6 +34,6 @@ Email: dhruv061@hotmail.com
 2. You are the business owner of the retail firm and want to see how your company is performing. You are interested in finding out the weak areas where you can work to make more profit. What all business problems you can derive by looking into the data? You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel)
 3. Dataset: https://drive.google.com/file/d/1lV7is1B566UQPYzzY8R2ZmOritTW299S/view
 
-Critical points from the analysis:
+**Critical points from the analysis:**
 1. Furniture Category performed worst among the three categories in terms of profit. Hence, we need improvement in that area.
 2. Even worse: In central region, furniture category has shown negative profit.
